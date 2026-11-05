@@ -7,3 +7,6 @@ altair
 matplotlib
 seaborn
 jupyter
+requests
+sqlalchemy
+pymysql
